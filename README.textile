@@ -4,6 +4,11 @@ A platformer game I implemented alone from scratch using Pymunk, Pygame and
 Python 3.2.
 I use an entity/component based architecture designed by myself called Larv.
 
+h2. Music credits
+Kevin MacLeod (incompetech.com) 
+Licensed under Creative Commons: By Attribution 3.0
+http://creativecommons.org/licenses/by/3.0/
+
 h2. License
 
 Shades
