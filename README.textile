@@ -8,9 +8,11 @@ Keep in mind that the graphics would be easy to change, just some files.
 I'm not an artist, so focus on the programming side.
 
 h2. Video
+
 http://www.youtube.com/watch?v=Ky_xV1Uphzw
 
 h2. Music credits
+
 Kevin MacLeod (incompetech.com) 
 Licensed under Creative Commons: By Attribution 3.0
 http://creativecommons.org/licenses/by/3.0/
