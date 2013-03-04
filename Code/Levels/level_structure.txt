@@ -1,0 +1,19 @@
+    - layers:
+      - background: first layer to be rendered, just images
+      - terrain: second layer to be rendered, contains terrain and all things that
+                 are just rendered, they do nothing but to exist and be painted.
+      - collision: contains logic rectangles (don't render them) only.
+                   This rectangles define those parts of the map the player should
+                   collide with (floor, platforms).
+      - logic: random logic of the game goes here, such as:
+            - player_start: circle logic
+            - player_finish: circle logic
+            - light: circle logic with:
+                - size: vec2d (only x will be used)
+            - camera_x_limit_right, camera_x_limit_left, camera_y_limit_top, camera_y_limit_bottom
+      - death:
+            - static enemies
+            - death zones
+      - light:
+            - lights (circle logic with size custom property (vec2d with value in x))
+            - obstructors (rectangles)

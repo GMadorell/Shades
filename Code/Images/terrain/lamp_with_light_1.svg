@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   id="svg6417"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="lamp_with_light_1.svg"
+   inkscape:export-filename="E:\Relevant\Program Genious\Game design\Sprites and Sound\Sprites\_MINE\SVG projects\terrain\lamp_with_light_1.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs3">
+    <linearGradient
+       id="linearGradient6483">
+      <stop
+         style="stop-color:#ffffb8;stop-opacity:1;"
+         offset="0"
+         id="stop6485" />
+      <stop
+         style="stop-color:#ffff00;stop-opacity:0;"
+         offset="1"
+         id="stop6487" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6483"
+       id="linearGradient6489"
+       x1="256"
+       y1="110"
+       x2="254"
+       y2="499"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.22954092,0,0,0.25098033,4.2045908,923.11126)" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-units="mm"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="132.65436"
+     inkscape:cy="114.23657"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1058"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-924.36224)">
+    <rect
+       style="fill:#808080;fill-opacity:1"
+       id="rect6423"
+       width="3.2135727"
+       height="17.317642"
+       x="62.393215"
+       y="923.36224" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffff00;fill-opacity:1"
+       id="path6430"
+       sodipodi:cx="243.95184"
+       sodipodi:cy="130.33911"
+       sodipodi:rx="13.081475"
+       sodipodi:ry="21.38998"
+       d="m 256.89322,133.46121 a 13.081475,21.38998 0 1 1 0.11093,-4.54968"
+       sodipodi:start="0.14648418"
+       sodipodi:end="6.2163952"
+       sodipodi:open="true"
+       transform="matrix(0.22954092,0,0,0.25098033,8.0066168,915.65753)" />
+    <path
+       style="fill:#808080;fill-opacity:1"
+       d="m 54.178001,939.43222 17.797127,0 15.782357,11.04313 -47.51497,0 z"
+       id="rect6425"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:url(#linearGradient6489);fill-opacity:1"
+       d="M 51.49002,950.97008 77.198603,950.7191 121.5,1051.3622 6.5,1050.6093 z"
+       id="rect6480"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+</svg>
