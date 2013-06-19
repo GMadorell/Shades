@@ -1,9 +1,8 @@
-
-larv - entity framework in python
+Shades
 -------------------------------------------------------------------------------
-
 Author: Gerard Madorell
 Copyright (c) Gerard Madorell 2013
+https://github.com/Skabed
 
 Licence Agreement (The MIT License)
 
